@@ -1,4 +1,3 @@
-HR analytics dashboard built using Power BI to analyze workforce trends, retention, and job satisfaction
 # HR Analytics Dashboard | Power BI
 
 ## Project Overview

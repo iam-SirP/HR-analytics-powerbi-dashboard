@@ -1,3 +1,5 @@
+<img width="605" height="337" alt="More" src="https://github.com/user-attachments/assets/b17913ba-f3b0-42a4-988a-cda3c135107e" />
+<img width="602" height="334" alt="HR home" src="https://github.com/user-attachments/assets/056c9d84-0326-4321-a389-b7790e950480" />
 # HR Analytics Dashboard | Power BI
 
 ## Project Overview
